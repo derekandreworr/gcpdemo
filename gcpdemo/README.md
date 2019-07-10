@@ -5,7 +5,7 @@ Kubernetes Project for GCP Demo
 Clone the project:
 
 ```
-git clone https://github.com/derekandreworr/gcpdemo/tree/master/gcpdemo
+git clone https://github.com/derekandreworr/gcpdemo
 ```
 
 Fix permissions and run:
