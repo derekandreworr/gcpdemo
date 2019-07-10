@@ -1,11 +1,11 @@
 # plano-k8s
 
-Kubernetes Project for Plano Apr 2019
+Kubernetes Project for GCP Demo
 
 Clone the project:
 
 ```
-git clone https://github.com/matkeller/plano-k8s.git
+git clone https://github.com/derekandreworr/gcpdemo/tree/master/gcpdemo
 ```
 
 Fix permissions and run:
