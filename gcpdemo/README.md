@@ -1,4 +1,4 @@
-# plano-k8s
+# GCP Demo
 
 Kubernetes Project for GCP Demo
 
